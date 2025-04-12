@@ -58,6 +58,12 @@ TagManager:
   - name: UI
     uniqueID: 120936653
     locked: 0
+  - name: BoxData
+    uniqueID: 4205877421
+    locked: 0
+  - name: Character Hand
+    uniqueID: 4233772745
+    locked: 0
   m_RenderingLayers:
   - Default
   - Layer 1
